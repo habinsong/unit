@@ -1,0 +1,47 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-10-25 0:5:5",
+  "loopSlideshow" : 0,
+  "filename" : "통일 발표",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "통일 발표",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "9AD6F9A9-6C1E-4DA5-AABA-AA42CC700087",
+    "E11AF21D-3C1B-4EE3-A4F2-9D95CFAFA3C1",
+    "9AC8CF33-DB8B-48D4-B311-9038F0DA2D10",
+    "5055A743-E236-4CC4-9607-1E18176745AC",
+    "2A5AB23E-D702-46EB-8194-2B986788225C",
+    "3F9C19C9-587C-408A-9980-4359194237C7",
+    "70B561A8-63A0-44A6-8DF4-E778CE260921",
+    "45E84DC5-987D-4548-9B9D-47C3E91FEE6F",
+    "AF90DF77-603A-4DB0-BF05-AEB835D6E668",
+    "443E3259-52F4-4F29-ACDC-B1C847700D13",
+    "C5327888-00CA-445B-AB96-E274A15EBBAA",
+    "DAFA724E-C8FA-4AC3-AF0E-92E7D18E90ED",
+    "F063E6CF-2DB0-46CD-952D-6459D47C62FB",
+    "6A21CF24-2ECE-42B2-8034-BF2A6C4D4687"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 14,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue",
+    "AppleSDGothicNeo-Regular",
+    "GillSans",
+    "HelveticaNeue-Medium",
+    "AppleSDGothicNeo-Light"
+  ]
+} )

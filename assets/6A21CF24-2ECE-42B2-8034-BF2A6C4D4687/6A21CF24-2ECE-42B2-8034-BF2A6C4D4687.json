@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "C25C25FF361FB24FC35F6B120D2F252D" : {
+    "1BF26FE69787B0655D70C10937599279" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -11,22 +11,8 @@
       "url" : {
         "native" : "assets\/6A21CF24-2ECE-42B2-8034-BF2A6C4D4687.pdf"
       },
-      "width" : 1920,
-      "height" : 1080
-    },
-    "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/6A21CF24-2ECE-42B2-8034-BF2A6C4D4687.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
+      "width" : 304,
+      "height" : 112
     },
     "E31A32BD2E093136C9683A493A1EDC23" : {
       "type" : "texture",
@@ -42,6 +28,20 @@
       "width" : 408,
       "height" : 894
     },
+    "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/6A21CF24-2ECE-42B2-8034-BF2A6C4D4687.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
     "DD382E4D065934F1BBAD35606E0C945C" : {
       "type" : "texture",
       "index" : 5,
@@ -56,20 +56,6 @@
       "width" : 1920,
       "height" : 1080
     },
-    "BFA449EF9A66D1469F613C262110085A" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/6A21CF24-2ECE-42B2-8034-BF2A6C4D4687.pdf"
-      },
-      "width" : 304,
-      "height" : 112
-    },
     "4D493F2132D851E3863BF556237B154E" : {
       "type" : "texture",
       "index" : 1,
@@ -83,6 +69,20 @@
       },
       "width" : 362,
       "height" : 748
+    },
+    "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/6A21CF24-2ECE-42B2-8034-BF2A6C4D4687.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
     }
   },
   "events" : [
@@ -418,21 +418,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "APP",
-          "targetRectangle" : {
-            "y" : 450.67552351951599,
-            "x" : 808.57503051757817,
-            "width" : 302.84999999999991,
-            "height" : 178.64895629882812
-          }
-        },
-        {
           "text" : "Samsung Galaxy S8 Orchid Gray.png",
           "targetRectangle" : {
             "y" : 94.472259521484375,
             "x" : 757.03729248046875,
             "width" : 405.92535400390625,
             "height" : 891.05548095703125
+          }
+        },
+        {
+          "text" : "APP",
+          "targetRectangle" : {
+            "y" : 450.67552351951599,
+            "x" : 808.57503051757817,
+            "width" : 302.84999999999991,
+            "height" : 178.64895629882812
           }
         }
       ],
@@ -1274,7 +1274,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "BFA449EF9A66D1469F613C262110085A"
+                    "texture" : "1BF26FE69787B0655D70C10937599279"
                   }
                 ]
               }

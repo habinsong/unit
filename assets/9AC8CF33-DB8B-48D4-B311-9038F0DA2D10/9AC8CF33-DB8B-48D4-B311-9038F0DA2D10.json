@@ -1181,21 +1181,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Unification_flag_of_Korea_(Cropped).PNG",
-          "targetRectangle" : {
-            "y" : 69.566162109375,
-            "x" : 716.2401123046875,
-            "width" : 487.51980590820312,
-            "height" : 878.55133056640625
-          }
-        },
-        {
           "text" : "머지않은 미래에 한반도는 통일이 될 것입니다.",
           "targetRectangle" : {
             "y" : 899.89863455295563,
             "x" : 507.42497634887695,
             "width" : 905.14999999999986,
             "height" : 63.699920535087585
+          }
+        },
+        {
+          "text" : "Unification_flag_of_Korea_(Cropped).PNG",
+          "targetRectangle" : {
+            "y" : 69.566162109375,
+            "x" : 716.2401123046875,
+            "width" : 487.51980590820312,
+            "height" : 878.55133056640625
           }
         }
       ],

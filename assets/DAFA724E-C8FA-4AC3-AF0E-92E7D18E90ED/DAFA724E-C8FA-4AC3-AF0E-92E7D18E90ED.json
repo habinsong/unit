@@ -42,20 +42,6 @@
       "width" : 1920,
       "height" : 1080
     },
-    "DD382E4D065934F1BBAD35606E0C945C" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/DAFA724E-C8FA-4AC3-AF0E-92E7D18E90ED.pdf"
-      },
-      "width" : 409,
-      "height" : 894
-    },
     "BFA449EF9A66D1469F613C262110085A" : {
       "type" : "texture",
       "index" : 11,
@@ -153,6 +139,20 @@
       },
       "width" : 211,
       "height" : 67
+    },
+    "763CED3BAD3B3C525B3207B3958A2C1A" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/DAFA724E-C8FA-4AC3-AF0E-92E7D18E90ED.pdf"
+      },
+      "width" : 409,
+      "height" : 894
     },
     "68D7A0E9E77D9C9288F5F8C3A54187F8" : {
       "type" : "texture",
@@ -466,30 +466,30 @@
       ],
       "accessibility" : [
         {
-          "text" : "Samsung Galaxy S8 Orchid Gray.png",
-          "targetRectangle" : {
-            "y" : 94.472259521484375,
-            "x" : 382.62808227539062,
-            "width" : 405.92535400390625,
-            "height" : 891.05548095703125
-          }
-        },
-        {
-          "text" : "Samsung Galaxy S8 Orchid Gray.png",
-          "targetRectangle" : {
-            "y" : 94.472259521484375,
-            "x" : 1211.532958984375,
-            "width" : 405.92535400390625,
-            "height" : 891.05548095703125
-          }
-        },
-        {
           "text" : "Unification_flag_of_Korea_(Cropped).PNG",
           "targetRectangle" : {
             "y" : 450.91143798828125,
             "x" : 536.15435791015625,
             "width" : 98.872840881347656,
             "height" : 178.17710876464844
+          }
+        },
+        {
+          "text" : "통일한국에서의경제",
+          "targetRectangle" : {
+            "y" : 680.40002381801605,
+            "x" : 1310.6957325172425,
+            "width" : 207.59999999999991,
+            "height" : 36
+          }
+        },
+        {
+          "text" : "알아보기",
+          "targetRectangle" : {
+            "y" : 716.40002381801605,
+            "x" : 1362.5957325172424,
+            "width" : 103.79999999999995,
+            "height" : 36
           }
         },
         {
@@ -511,6 +511,15 @@
           }
         },
         {
+          "text" : "Samsung Galaxy S8 Orchid Gray.png",
+          "targetRectangle" : {
+            "y" : 94.472259521484375,
+            "x" : 1211.532958984375,
+            "width" : 405.92535400390625,
+            "height" : 891.05548095703125
+          }
+        },
+        {
           "text" : "Unification_flag_of_Korea_(Cropped).PNG",
           "targetRectangle" : {
             "y" : 450.91143798828125,
@@ -520,21 +529,12 @@
           }
         },
         {
-          "text" : "통일한국에서의경제",
+          "text" : "Samsung Galaxy S8 Orchid Gray.png",
           "targetRectangle" : {
-            "y" : 680.40002381801605,
-            "x" : 1310.6957325172425,
-            "width" : 207.59999999999991,
-            "height" : 36
-          }
-        },
-        {
-          "text" : "알아보기",
-          "targetRectangle" : {
-            "y" : 716.40002381801605,
-            "x" : 1362.5957325172424,
-            "width" : 103.79999999999995,
-            "height" : 36
+            "y" : 94.472259521484375,
+            "x" : 382.62808227539062,
+            "width" : 405.92535400390625,
+            "height" : 891.05548095703125
           }
         }
       ],
@@ -1189,7 +1189,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DD382E4D065934F1BBAD35606E0C945C"
+                    "texture" : "763CED3BAD3B3C525B3207B3958A2C1A"
                   }
                 ]
               }
